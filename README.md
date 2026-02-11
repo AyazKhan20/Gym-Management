@@ -48,3 +48,55 @@ It helps gym owners **digitize operations**, **track members**, **manage payment
 
 > Add your screenshots here later
 
+
+
+---
+
+# 🏗 Tech Stack
+
+## 👨‍💻 Backend
+- ASP.NET Core MVC
+- C#
+- Entity Framework Core
+- REST APIs
+
+## 🎨 Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+## 🛢 Database
+- SQL Server
+- Stored Procedures
+- LINQ Queries
+
+## 🛠 Tools
+- Visual Studio
+- SSMS
+- Git/GitHub
+- Postman
+
+---
+
+# 📊 System Architecture
+
+✔ Clean separation of concerns  
+✔ Maintainable code  
+✔ Scalable structure  
+
+---
+
+# 📂 Project Structure
+
+GymProManager/
+│
+├── Controllers/
+├── Models/
+├── Views/
+├── Services/
+├── Data/
+├── wwwroot/
+├── appsettings.json
+└── Program.cs
+
