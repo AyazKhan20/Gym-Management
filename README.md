@@ -87,16 +87,13 @@ It helps gym owners **digitize operations**, **track members**, **manage payment
 
 ---
 
-# 📂 Project Structure
+👨‍💻 Author
+Ayaz Khan Pathan
 
-GymProManager/
-│
-├── Controllers/
-├── Models/
-├── Views/
-├── Services/
-├── Data/
-├── wwwroot/
-├── appsettings.json
-└── Program.cs
+🎓 MCA (2024–2026)
+💻 Full Stack Developer
+⚙ ASP.NET | SQL Server | Azure | Power Platform
 
+🔗 GitHub: https://github.com/AyazKhan20
+
+🔗 LinkedIn: https://www.linkedin.com/in/ayazkhan-pathan-43302b357/r
